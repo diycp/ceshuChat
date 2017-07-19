@@ -17,6 +17,10 @@
 - 客户端使用Framework7+vue.js+webpack
 - 支持跨域
 
+## 效果预览
+
+![chat](https://github.com/ceshu/ceshuChat/raw/master/Screenshot/chat.gif)
+
 ## 更新记录
 
 ```
